@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+
 <h1 align="center">Hi 👋, I'm Faiz Ahmad</h1>
 <h3 align="center">A passionate Backend Developer & CP Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">

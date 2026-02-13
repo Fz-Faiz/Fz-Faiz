@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiz Ahmad</h1>
 <h3 align="center">A passionate Backend Developer & CP Enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI1YWQwcDJkajI4Z3I5azY1cG54dGM4d2FhNmlpY3lyc25wcjlmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fz-faiz&label=Profile%20views&color=0e75b6&style=flat" alt="fz-faiz" /> </p>
 

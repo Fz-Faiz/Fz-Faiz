@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiz Ahmad</h1>
 <h3 align="center">A passionate Backend Developer & CP Enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90zxQvZtHt2aCE1MkE0iI9rafXgB0M8JjDg&s">
+<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fz-faiz&label=Profile%20views&color=0e75b6&style=flat" alt="fz-faiz" /> </p>
 

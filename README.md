@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fz-faiz&label=Profile%20views&color=0e75b6&style=flat" alt="fz-faiz" /> </p>
 
-- 🔭 I’m currently working on **Resume Reviewer**
+- 🔭 I’m currently working on **Code-Collab**
 
-- 🌱 I’m currently learning **Langchain, Generative AI**
+- 🌱 I’m currently learning **LangGraph, Generative AI**
 
 - 💬 Ask me about **Data Structures And Algorithms**
 
 - 📫 How to reach me **faizahmad43430@gmail.com**
 
-- 📄 Know about my experiences [click](https://app.luminpdf.com/viewer/699693d35b7deaba932ae06d)
+- 📄 Know about my experiences [Click](https://app.luminpdf.com/viewer/699693d35b7deaba932ae06d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

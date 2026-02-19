@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **faizahmad43430@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/68b9d11bc80a52bc60f058d0](https://app.luminpdf.com/viewer/68b9d11bc80a52bc60f058d0)
+- 📄 Know about my experiences [click](https://app.luminpdf.com/viewer/699693d35b7deaba932ae06d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
